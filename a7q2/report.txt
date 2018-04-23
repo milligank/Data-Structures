@@ -1,0 +1,27 @@
+grade report
+Ali            88.0   A
+Allison        67.7   C
+Bodnar         93.6   A
+Costa          45.1   F
+Dabu           74.4   B
+Eccles         77.8   B
+Fan            88.0   A
+Giblett        59.1   D
+Hatch          66.5   C
+He             85.7   A
+Koreck         77.4   B
+Lamont         98.1   A
+Lu             85.0   A
+Moore          92.0   A
+Myrie          76.7   B
+Parr           92.5   A
+Pereira        80.3   B
+Peters         82.3   B
+Smith          60.1   C
+Suglio         85.7   A
+Sun            67.7   C
+
+statistics summary
+count          21
+mean           78.3
+stddev         13.0

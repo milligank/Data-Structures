@@ -1,0 +1,14 @@
+# Makefile for a5q2
+# Type "make" or "make all" to compile all the programs 
+# Type "make clean" to clean
+
+all: llist a5q2
+
+clean: 
+	rm -f a5q2.exe llist.o
+
+llist: llist.h llist.c
+	gcc -c llist.c
+	
+a5q2: llist.o a5q2.c
+	gcc llist.o a5q2.c -o a5q2.exe

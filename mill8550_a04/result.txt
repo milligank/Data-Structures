@@ -1,0 +1,7 @@
+Line count                   2
+Word count                  10
+Non-stop-word        frequency
+first                        1
+test                         2
+second                       1
+
